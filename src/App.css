@@ -1,0 +1,7 @@
+
+<BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Mail />}></Route>
+          <Route path="/Very" element={<Very />}></Route>
+        </Routes>
+      </BrowserRouter>
